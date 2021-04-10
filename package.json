@@ -1,0 +1,23 @@
+{
+  "name": "adofai-triangle",
+  "version": "1.0.0",
+  "description": "Spread the triangle.",
+  "main": "cli.js",
+  "scripts": {
+    "test": "node cli.js",
+    "build": "npx pkg cli.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wjdgustn/adofai-triangle.git"
+  },
+  "author": "Hyonsu",
+  "license": "AGPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/wjdgustn/adofai-triangle/issues"
+  },
+  "homepage": "https://github.com/wjdgustn/adofai-triangle#readme",
+  "devDependencies": {
+    "pkg": "^4.5.1"
+  }
+}
